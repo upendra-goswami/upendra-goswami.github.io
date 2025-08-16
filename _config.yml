@@ -2,13 +2,16 @@ title: "Upendra Goswami Blogs"
 description: "Blog"
 url: "https://upendra-goswami.github.io" # GitHub Pages URL
 
+# Remote theme
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
 
 author:
   name: "Upendra Goswami"
@@ -18,5 +21,4 @@ author:
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
-
 minimal_mistakes_skin: "default"
