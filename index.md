@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Upendra Goswami Blogs"
 intro: >
   Hi, I’m Upendra Goswami – Adobe Commerce Expert, Magento Developer, and Team Lead.
