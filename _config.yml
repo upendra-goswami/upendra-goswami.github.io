@@ -1,3 +1,1 @@
-title: "My Jekyll Blog"
-description: "Hello World blog with GitHub Pages + Jekyll"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
