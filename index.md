@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Hello World
+layout: home
+title: "Welcome"
+permalink: /
 ---
 
-# Hello World 🎉
-
-Welcome to my first Jekyll page hosted on **GitHub Pages**!
+Welcome to my blog! Here you will find articles about Magento, Adobe Commerce, and development tips.
