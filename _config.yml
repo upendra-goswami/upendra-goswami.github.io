@@ -4,7 +4,7 @@ url: "https://upendra-goswami.github.io" # GitHub Pages URL
 
 # Remote theme
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "primary"
+minimal_mistakes_skin: "default"
 
 # Plugins
 plugins:
