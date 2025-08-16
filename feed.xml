@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://upendra-goswami.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://upendra-goswami.github.io/" rel="alternate" type="text/html" /><updated>2025-08-16T18:23:42+00:00</updated><id>https://upendra-goswami.github.io/feed.xml</id><title type="html">Upendra Goswami Blogs</title><subtitle>Blog</subtitle><author><name>Upendra Goswami</name><email>nbpgoswamiupendra@gmail.com</email></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://upendra-goswami.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://upendra-goswami.github.io/" rel="alternate" type="text/html" /><updated>2025-08-16T19:49:33+00:00</updated><id>https://upendra-goswami.github.io/feed.xml</id><title type="html">Upendra Goswami Blogs</title><subtitle>Blog</subtitle><author><name>Upendra Goswami</name><email>nbpgoswamiupendra@gmail.com</email></author><entry><title type="html">Welcome to My Blog</title><link href="https://upendra-goswami.github.io/general/2023/11/01/testpost.html" rel="alternate" type="text/html" title="Welcome to My Blog" /><published>2023-11-01T00:00:00+00:00</published><updated>2023-11-01T00:00:00+00:00</updated><id>https://upendra-goswami.github.io/general/2023/11/01/testpost</id><content type="html" xml:base="https://upendra-goswami.github.io/general/2023/11/01/testpost.html"><![CDATA[<p>Welcome to my new blog! This is my first post where I’ll explain what this blog is about.</p>
+
+<h2 id="what-to-expect">What to Expect</h2>
+
+<ul>
+  <li>Articles about topic 1</li>
+  <li>Tutorials on topic 2</li>
+  <li>Thoughts on topic 3</li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>Here’s some sample content to get you started…</p>]]></content><author><name>Upendra Goswami</name><email>nbpgoswamiupendra@gmail.com</email></author><category term="General" /><category term="welcome" /><category term="introduction" /><summary type="html"><![CDATA[Welcome to my new blog! This is my first post where I’ll explain what this blog is about.]]></summary></entry></feed>
