@@ -4,6 +4,7 @@ url: "https://upendra-goswami.github.io" # GitHub Pages URL
 
 # Remote theme
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "primary"
 
 # Plugins
 plugins:
@@ -21,4 +22,9 @@ author:
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
-minimal_mistakes_skin: "default"
+
+social:
+  - icon: fab fa-github
+    link: https://github.com/upendra-goswami
+  - icon: fab fa-linkedin
+    link: https://linkedin.com/in/upendra-goswami
