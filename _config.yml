@@ -1,1 +1,23 @@
+title: "Upendra Goswami Blogs"
+description: "Blog"
+url: "https://upendra-goswami.github.io" # change if you use custom domain
+
+# Use Minimal Mistakes as remote theme
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Author settings
+author:
+  name: "Upendra Goswami"
+  bio: "Adobe Commerce Expert | Team Lead | Magento Developer"
+  avatar: "/assets/images/profile.jpg" # optional, upload your picture
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
