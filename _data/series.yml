@@ -1,0 +1,6 @@
+- name: "Your Series Name"
+  slug: "series-slug"
+  description: "Series description"
+  posts:
+    - "First Post Title"
+    - "Second Post Title"

@@ -1,0 +1,61 @@
+---
+layout: home
+title: "Home"
+author_profile: true
+header:
+  image: /assets/images/homepagebanner.png
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+feature_row:
+  - title: "About Me"
+    excerpt: "Learn more about who I am and what I do"
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+  - title: "My CV"
+    excerpt: "View my professional background and experience"
+    url: "/cv/"
+    btn_class: "btn--primary"
+    btn_label: "View CV"
+  - title: "Latest Articles"
+    excerpt: "Check out my most recent blog posts"
+    url: "/year-archive/"
+    btn_class: "btn--primary"
+    btn_label: "Browse articles"
+---
+
+<!-- {% include feature_row %} -->
+
+## Recent Posts
+{% include posts-recent.html limit=5 %}
+
+## Popular Categories
+{% include category-list.html %}
+
+## Article Series
+{% include series-list.html %}
+
+<!--
+---
+# layout: splash
+# title: "Upendra Goswami Blogs"
+# intro: >
+#   Hi, I’m Upendra Goswami – Adobe Commerce Expert, Magento Developer, and Team Lead.
+#   I share tutorials, insights, and tips about Magento, Adobe Commerce, and software development.
+# featured: true
+# show_posts: true
+# permalink: /
+# sections:
+#   - title: "About Me"
+#     content: >
+#      I have 8+ years of experience in Adobe Commerce and Magento development,
+#      specializing in B2B solutions, marketplace integrations, and custom API development.
+#      My mission is to help developers and businesses succeed in eCommerce.
+#  - title: "Latest Posts"
+#    content: >
+#      Explore my most recent blog posts and stay updated with the latest in Adobe Commerce and Magento.
+
+layout: home
+author_profile: true
+
+---
+-->

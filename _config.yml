@@ -19,6 +19,13 @@ author:
   email: "nbpgoswamiupendra@gmail.com"
   bio: "Adobe Commerce Expert | Team Lead | Magento Developer"
   avatar: "/assets/images/profile.jpg"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "nbpgoswamiupendra@gmail.com"
+  - label: "Linkedin"
+    icon: "fab fa-fw fa-linkedin-in"
+    url: "https://linkedin.com/in/upendra-goswami"
 
 markdown: kramdown
 paginate: 5
@@ -29,3 +36,10 @@ social:
     link: https://github.com/upendra-goswami
   - icon: fab fa-linkedin
     link: https://linkedin.com/in/upendra-goswami
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+logo: "/assets/images/logo.png"
